@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/1.PROVNSTAR/cmake-build-debug",
+  "command": "D:\\CLion-2025.3.3.win\\bin\\mingw\\bin\\g++.exe -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\1_PROVNSTAR.dir\\main.cpp.obj -c D:\\1.PROVNSTAR\\main.cpp",
+  "file": "D:/1.PROVNSTAR/main.cpp",
+  "output": "D:/1.PROVNSTAR/cmake-build-debug/CMakeFiles/1_PROVNSTAR.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/1.PROVNSTAR/cmake-build-debug",
+  "command": "D:\\CLion-2025.3.3.win\\bin\\mingw\\bin\\g++.exe -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\1_PROVNSTAR.dir\\test.cpp.obj -c D:\\1.PROVNSTAR\\test.cpp",
+  "file": "D:/1.PROVNSTAR/test.cpp",
+  "output": "D:/1.PROVNSTAR/cmake-build-debug/CMakeFiles/1_PROVNSTAR.dir/test.cpp.obj"
+}
+]
